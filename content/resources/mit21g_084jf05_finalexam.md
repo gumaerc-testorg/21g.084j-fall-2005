@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 92cfc633-0ab6-07ba-cf02-e94a51a21ff7
 resourcetype: Document
 title: "Last year\u2019s final exam"
 uid: 93f39235-4b8e-2d71-f54e-5e8c4a90f3db

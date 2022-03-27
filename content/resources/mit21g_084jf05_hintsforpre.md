@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b674ecc6-f0d9-4b67-c282-ebf75e5e6320
 resourcetype: Document
 title: Hints for Class Presentations
 uid: 21ff635f-ff7a-eeee-7a02-75688bff693a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 92cfc633-0ab6-07ba-cf02-e94a51a21ff7
 resourcetype: Document
 title: Items for the Map Test
 uid: 7beaaa98-0cb1-df9c-3a4e-c6d4b9cbfc11
