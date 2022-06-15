@@ -1,64 +1,60 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the course assignments.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: b674ecc6-f0d9-4b67-c282-ebf75e5e6320
 ---
+Hints for Writing Papers ({{% resource_link b63515fd-4b6d-02a8-f79f-97e9e144d177 "PDF" %}})
 
-Hints for Writing Papers ([PDF]({{< baseurl >}}/resources/mit21g_084jf05_sylbs200211))
+Hints for Class Presentations ({{% resource_link 21ff635f-ff7a-eeee-7a02-75688bff693a "PDF" %}})
 
-Hints for Class Presentations ([PDF]({{< baseurl >}}/resources/mit21g_084jf05_hintsforpre))
+## First Paper Topic
 
-First Paper Topic
------------------
+Drawing on class lectures, historical readings, scholarly research on economic development, and works of fiction (including "Big Mama's Funeral" and *House of the Spirits*), discuss the legacies of Iberian colonialism in Latin America. What do you think have been the main cultural, social, economic, or political legacies of Spanish and Portuguese rule? What features of modern Latin America cannot be explained by colonialism? Are there any aspects of Latin American society or politics that you feel are wrongly attributed to colonialism?
 
-Drawing on class lectures, historical readings, scholarly research on economic development, and works of fiction (including "Big Mama's Funeral" and _House of the Spirits_), discuss the legacies of Iberian colonialism in Latin America. What do you think have been the main cultural, social, economic, or political legacies of Spanish and Portuguese rule? What features of modern Latin America cannot be explained by colonialism? Are there any aspects of Latin American society or politics that you feel are wrongly attributed to colonialism?
-
-Second Paper Topic
-------------------
+## Second Paper Topic
 
 During the 1970s, countries like Chile, Argentina, Brazil, and Uruguay experienced a period of harsh military rule. During the 1980s, virtually all of these countries made the transition to something resembling a democratic political system. Drawing on the readings, films, and lectures from lecture 10 through lecture 16, discuss the legacies of military rule and the process of democratization in Chile and elsewhere. What were the main obstacles and challenges to democratization? How complete was the process of political transition? What "authoritarian enclaves" remained or remain?
 
-Third Paper Topic
------------------
+## Third Paper Topic
 
 A range of political scientists, economists, and civic activists have argued that the rule of law in Latin America is weak. Drawing on the cases of Chile, Mexico, and Brazil, discuss whether or not you agree, and in what sense. Then discuss what can be done to improve the rule of law where it is seriously compromised.
 
-### Individual Class Presentations of Economic Development
+#### *Individual Class Presentations of Economic Development*
 
 We have scheduled "individual class presentations" on the subject of economic development. For these presentations, you will be called upon at random to answer one of the five questions on the list below, meaning that you must be prepared to answer all of them. The following questions are fair game:
 
-1.  What are the main tenets of dependency theory?
-2.  Why did Mexico develop slowly in the 19th and early 20th century, according to Haber?
-3.  Explain the failure of the **chinchilla** industry in _House of the Spirits_ from a cultural perspective.
-4.  Explain the failure of the **chinchilla** industry in _House of the Spirits_ from a dependency perspective.
-5.  Explain the failure of the **chinchilla** industry in _House of the Spirits_ from a neoliberal perspective.
+1. What are the main tenets of dependency theory?
+2. Why did Mexico develop slowly in the 19th and early 20th century, according to Haber?
+3. Explain the failure of the **chinchilla** industry in *House of the Spirits* from a cultural perspective.
+4. Explain the failure of the **chinchilla** industry in *House of the Spirits* from a dependency perspective.
+5. Explain the failure of the **chinchilla** industry in *House of the Spirits* from a neoliberal perspective.
 
 Your presentations should be no more than 3 minutes, and we will be strict with the time to make sure that everyone gets a chance to go. (This is enough time to develop two or three good points.) You should make sure to practice and time your answers; be ready!
 
-### "Extemporaneous" Presentations on Mexican Economic Development
+#### *"Extemporaneous" Presentations on Mexican Economic Development*
 
 Based on your own reading and you discussions in your break-out groups with the TA, you should be prepared to answer any of the following questions in class. You may continue to speak as long as you are "adding value", and I will follow-up your answers with more questions.
 
-1.  What happened to the steroid hormone industry in Mexico? What were the main obstacles to its development and expansion?
-2.  Which of the main paradigms of development we discussed in detail the previous week (culture, dependency, or neoliberalism) best explain what happened to the steroid hormone industry in Mexico?
-3.  If you could propose a single policy measure that would have strengthened the steroid hormone industry in Mexico, what would it have been?
+1. What happened to the steroid hormone industry in Mexico? What were the main obstacles to its development and expansion?
+2. Which of the main paradigms of development we discussed in detail the previous week (culture, dependency, or neoliberalism) best explain what happened to the steroid hormone industry in Mexico?
+3. If you could propose a single policy measure that would have strengthened the steroid hormone industry in Mexico, what would it have been?
 
-Class Debate
-------------
+## Class Debate
 
 Resolved: Chile's current democratic leaders should prosecute General Augusto Pinochet for his role in human rights abuses perpetrated under the military regime (1973-1990).
 
-Teams
------
+## Teams
 
-*   Team 1A (affirmative)
-*   Team 1B (negative)
-*   Team 2A (affirmative)
-*   Team 2B (negative)
-*   Judges
+- Team 1A (affirmative)
+- Team 1B (negative)
+- Team 2A (affirmative)
+- Team 2B (negative)
+- Judges
 
 There will be two debates: one between Team 1A and Team 1B; the next between teams 1B and 2B. Speakers on the affirmative teams will defend prosecution; speakers on the negative teams will oppose it. Judges will then each render a 2-minute verdict.
 
@@ -68,23 +64,23 @@ Please note that we will time each presentation strictly, so that you should pre
 
 Because of time constraints, we will begin promptly. Lateness will be penalized in a draconian fashion. Each team will receive a grade, as will each individual speaker; your final grade for the session will be the average of the two grades.
 
-### Breakout Groups on Rule of Law in Mexico
+#### *Breakout Groups on Rule of Law in Mexico*
 
 Everyone in the class will be divided into teams. You should address the following points:
 
-1.  What are the main problems with Mexico's criminal justice system?
-2.  What obstacles do you perceive to reform of the police?
-3.  Name three specific reforms you would recommend to improve the Mexican police.
-4.  Name at least one reform that sounds initially plausible but which you think, upon reflection, is a bad idea.
+1. What are the main problems with Mexico's criminal justice system?
+2. What obstacles do you perceive to reform of the police?
+3. Name three specific reforms you would recommend to improve the Mexican police.
+4. Name at least one reform that sounds initially plausible but which you think, upon reflection, is a bad idea.
 
 You may elect as many speakers as you wish to represent your group, or just one, but you will be graded entirely as a team.
 
-### Group presentations on Land Disputes in Brazil
+#### *Group presentations on Land Disputes in Brazil*
 
 For the group presentation, everyone in the class will be divided into teams. Each team will be asked to present on the following issues:
 
-1.  Who owns the plots of land in Jardim das Camelias (i.e., who are the potential owners of the land in and what are their ownership claims?
-2.  Who should own the land in Jardim das Camelias? and
-3.  How should the Brazilian government decide land claims in general?
+1. Who owns the plots of land in Jardim das Camelias (i.e., who are the potential owners of the land in and what are their ownership claims?
+2. Who should own the land in Jardim das Camelias? and
+3. How should the Brazilian government decide land claims in general?
 
 Each person in each group must speak for roughly the same amount of time. You will, however, be graded entirely as a team.
