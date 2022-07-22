@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations for the readings and films used for each
+  session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5a2fe84e-70a6-f9b7-9b5e-48c6fd80f365
 ---
@@ -596,7 +601,7 @@ Recent articles on police reform in Mexico on-line sources on police reform in M
 
 [Center for U.S. - Mexican Studies](http://www.utdallas.edu/research/cusms/).
 
-"Democratizing the Police Abroad: What to Do and How to Do It." Chapter 3. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
+"Democratizing the Police Abroad: What to Do and How to Do It." Chapter 3. ([PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
 
 [Exploring Roads to Police Reform: Six Recommendations](http://repositories.cdlib.org/usmex/prajm/varenik/).
 
