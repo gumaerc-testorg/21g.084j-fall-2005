@@ -5,6 +5,7 @@ file: /courses/21g-084j-introduction-to-latin-american-studies-fall-2005/7beaaa9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Items for the Map Test
 uid: 7beaaa98-0cb1-df9c-3a4e-c6d4b9cbfc11
 ---
 A list of items to be identified on the final exam of the course.
-
