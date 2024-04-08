@@ -437,7 +437,7 @@ Karl, Terry, and Philippe C. Schmitter. "What Democracy is...and is Not." _Journ
 
 Colburn, Forrest D. "Fragile Democracies" In _Latin America at the End of Politics_. Princeton, NJ: Princeton University Press, 2002, pp. 33-44. ISBN: 9780691091815.
 
-Option (in Spanish): [Constitution of Chile](http://pdba.georgetown.edu/Decen/Chile/constitucion.html).
+Option (in Spanish): {{% resource_link "00315eec-37f6-4a9b-b111-e78c04e6ce44" "Constitution of Chile" %}}.
 
 _Film_
 
@@ -495,7 +495,7 @@ Mendez, Juan E. "Accountability for past abuses." _Human Rights Quarterly_ 19, n
 
 _Film_
 
-Babenco, Hector. [_Kiss of the Spider Woman_](http://www.imdb.com/title/tt0089424/). 1985 (Hollywood version of Manuel Puig's classic novel).
+Babenco, Hector. {{% resource_link "ef3f1e11-fbd4-40c7-84a8-0d9610caaf3c" "_Kiss of the Spider Woman_" %}}. 1985 (Hollywood version of Manuel Puig's classic novel).
 
 
 {{< tdclose >}}
@@ -591,27 +591,27 @@ Colburn, Forrest D. "Crime." In _Latin America at the End of Politics_. Princeto
 
 Magaloni, Beatriz, and Guillermo Zepeda. "Democratization, Judicial and Law Enforcement Institutions, and the Rule of Law in Mexico." In _Dilemmas of Political Change in Mexico_. Edited by Kevin J. Middlebrook. La Jolla, CA: Institute of Latin American Studies and Center for U.S.-Mexican Studies of the University of California at San Diego, 2004, pp. 166-95. ISBN: 9781900039451.
 
-Reames, Benjamin. "[Police Forces In Mexico: A Profile](http://repositories.cdlib.org/usmex/prajm/reames/)." 2003.
+Reames, Benjamin. "{{% resource_link "1bb7a38f-2c59-4915-b875-eae7c1cd6104" "Police Forces In Mexico: A Profile" %}}." 2003.
 
 Recent articles on police reform in Mexico on-line sources on police reform in Mexico See, among other sources:
 
-[Public Insecurity in Mexico:Statistics and Análisis](http://www.seguridadpublicaenmexico.org.mx/).
+{{% resource_link "d267a7ad-8a2e-497d-bbe3-2b8e7bce9c41" "Public Insecurity in Mexico:Statistics and Análisis" %}}.
 
-[Human Rights First Letter Regarding Giuliani Plan for Mexico City](http://web.archive.org/web/20100827150421/http://www.humanrightsfirst.org/mexico_policing/mex_policing.htm).
+{{% resource_link "f3b76401-c490-42f6-8ef0-fd0048a8655b" "Human Rights First Letter Regarding Giuliani Plan for Mexico City" %}}.
 
-[Center for U.S. - Mexican Studies](http://www.utdallas.edu/research/cusms/).
+{{% resource_link "fe1e1f85-5fd0-44b3-879e-115d58eb4e1a" "Center for U.S. - Mexican Studies" %}}.
 
-"Democratizing the Police Abroad: What to Do and How to Do It." Chapter 3. ([PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
+"Democratizing the Police Abroad: What to Do and How to Do It." Chapter 3. ({{% resource_link "417685c0-44e7-4441-85f5-e6e5aabad6f1" "PDF" %}})
 
-[Exploring Roads to Police Reform: Six Recommendations](http://repositories.cdlib.org/usmex/prajm/varenik/).
+{{% resource_link "adfa559d-4cfc-4d46-a405-8670edb829ba" "Exploring Roads to Police Reform: Six Recommendations" %}}.
 
-[Evaluando la "Estrategía Giuliani": la Política de Cero Tolerancia en el Distrito Federal](http://repositories.cdlib.org/usmex/prajm/arroyo/).
+{{% resource_link "2f743596-0a7f-412e-954c-fae831de4a09" "Evaluando la \"Estrategía Giuliani\": la Política de Cero Tolerancia en el Distrito Federal" %}}.
 
-[La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California](http://repositories.cdlib.org/usmex/prajm/carrillo/).
+{{% resource_link "07c9bd11-1a19-499b-9c61-73f9f44e23b4" "La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California" %}}.
 
 _Film_
 
-Soderbergh, Steven. [_Traffic_](http://www.imdb.com/title/tt0181865/). U.S.A. Films, 2000.
+Soderbergh, Steven. {{% resource_link "a9a3df2a-da1e-44b9-85a3-638367ee7777" "_Traffic_" %}}. U.S.A. Films, 2000.
 
 
 {{< tdclose >}}
@@ -663,7 +663,7 @@ Holston, James, and Teresa P. R. Caldeira. "Democracy, Law, and Violence: The Di
 
 _Film_
 
-Salles, Walter. [_Central Station_](http://www.imdb.com/title/tt0140888/). 1998.
+Salles, Walter. {{% resource_link "8adff220-57f0-44b7-8541-f3e45f19f5c6" "_Central Station_" %}}. 1998.
 
 
 {{< tdclose >}}
