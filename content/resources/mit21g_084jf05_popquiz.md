@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Pop quiz on Latin American studies.
-file: /courses/21g-084j-introduction-to-latin-american-studies-fall-2005/95898e4858f0d10d74dcb153f2c36925_MIT21G_084JF05_popquiz.pdf
+file: /ol-ocw-studio-app/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/95898e4858f0d10d74dcb153f2c36925_MIT21G_084JF05_popquiz.pdf
 file_size: 113793
 file_type: application/pdf
 learning_resource_types:
