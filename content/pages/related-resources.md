@@ -1,17 +1,17 @@
 ---
 content_type: page
 description: This section provides links to sources of information about Latin America.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 05adae02-67dc-92d9-f42f-11b782442f37
 ---
-
 Sources for further information about the region.
 
 Some useful Web sites are:
 
-[The WWW Virtual Library: Latin American Studies](http://www1.lanic.utexas.edu/las.html): This site contains links to country homepages, library collections, Latin American publications in several languages, other university programs, etc.
+[The WWW Virtual Library: Latin American Studies](https://www.vlib.org/): This site contains links to country homepages, library collections, Latin American publications in several languages, other university programs, etc.
 
 [Latin American Studies Association homepage](http://lasa.international.pitt.edu/)
 
@@ -23,13 +23,11 @@ Some useful Web sites are:
 
 [United Nations Economic Commission on Latin America and the Caribbean (ECLAC)](https://www.cepal.org/en)
 
-[Cultural Studies Virtual Library, organized by the Advanced Program of Contemporary Culture (PACC) of the Federal University of Rio de Janiero, Brazil](http://www.bibvirtuais.ufrj.br/estudosculturais/index.php)
-
 [Organization of American States](https://www.britannica.com/topic/Organization-of-American-States)
 
 [Inter-American Development Bank (IADB)](http://www.iadb.org/)
 
-[United States Central Intelligence Agency (CIA), The World Factbbook](https://www.cia.gov/library/publications/the-world-factbook/index.html): Basic declassified information on all countries.
+[United States Central Intelligence Agency (CIA), The World Factbbook](https://www.cia.gov/the-world-factbook/countries/united-states/): Basic declassified information on all countries.
 
 [Democracy Center](http://www.democracyctr.org/): Information on democracy around the world.
 
