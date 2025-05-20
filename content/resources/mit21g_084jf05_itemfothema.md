@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of items to be identified on the final exam of the course.
-file: /ol-ocw-studio-app/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/7beaaa980cb1df9c3a4ec6d4b9cbfc11_MIT21G_084JF05_itemfothema.pdf
+file: /courses/21g-084j-introduction-to-latin-american-studies-fall-2005/7beaaa980cb1df9c3a4ec6d4b9cbfc11_MIT21G_084JF05_itemfothema.pdf
 file_size: 569274
 file_type: application/pdf
 learning_resource_types:
