@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines and suggestions for oral presentation assignments.
-file: /courses/21g-084j-introduction-to-latin-american-studies-fall-2005/21ff635fff7aeeee7a0275688bff693a_MIT21G_084JF05_hintsforpre.pdf
+file: /ol-ocw-studio-app/courses/21g-084j-introduction-to-latin-american-studies-fall-2005/21ff635fff7aeeee7a0275688bff693a_MIT21G_084JF05_hintsforpre.pdf
 file_size: 135712
 file_type: application/pdf
 learning_resource_types:
