@@ -437,7 +437,7 @@ Karl, Terry, and Philippe C. Schmitter. "What Democracy is...and is Not." _Journ
 
 Colburn, Forrest D. "Fragile Democracies" In _Latin America at the End of Politics_. Princeton, NJ: Princeton University Press, 2002, pp. 33-44. ISBN: 9780691091815.
 
-Option (in Spanish): {{% resource_link "c5b9f70b-137e-456b-bde4-b72e6c5dbce6" "Constitution of Chile" %}}.
+Option (in Spanish): [Constitution of Chile](http://pdba.georgetown.edu/Decen/Chile/constitucion.html).
 
 _Film_
 
@@ -495,7 +495,7 @@ Mendez, Juan E. "Accountability for past abuses." _Human Rights Quarterly_ 19, n
 
 _Film_
 
-Babenco, Hector. {{% resource_link "23c7daf5-02fa-41ee-bed5-bcd2b83acfe3" "_Kiss of the Spider Woman_" %}}. 1985 (Hollywood version of Manuel Puig's classic novel).
+Babenco, Hector. [_Kiss of the Spider Woman_](http://www.imdb.com/title/tt0089424/). 1985 (Hollywood version of Manuel Puig's classic novel).
 
 
 {{< tdclose >}}
@@ -591,27 +591,27 @@ Colburn, Forrest D. "Crime." In _Latin America at the End of Politics_. Princeto
 
 Magaloni, Beatriz, and Guillermo Zepeda. "Democratization, Judicial and Law Enforcement Institutions, and the Rule of Law in Mexico." In _Dilemmas of Political Change in Mexico_. Edited by Kevin J. Middlebrook. La Jolla, CA: Institute of Latin American Studies and Center for U.S.-Mexican Studies of the University of California at San Diego, 2004, pp. 166-95. ISBN: 9781900039451.
 
-Reames, Benjamin. "{{% resource_link "a1280e74-ec85-4ac9-98c9-a8c73cd585e9" "Police Forces In Mexico: A Profile" %}}." 2003.
+Reames, Benjamin. "[Police Forces In Mexico: A Profile](http://repositories.cdlib.org/usmex/prajm/reames/)." 2003.
 
 Recent articles on police reform in Mexico on-line sources on police reform in Mexico See, among other sources:
 
-{{% resource_link "170663d0-fd8d-4eb5-aaae-7c67867a22a2" "Public Insecurity in Mexico:Statistics and Análisis" %}}.
+[Public Insecurity in Mexico:Statistics and Análisis](http://www.seguridadpublicaenmexico.org.mx/).
 
-{{% resource_link "1c21111c-bfa7-4ce0-929e-cb0f925096d7" "Human Rights First Letter Regarding Giuliani Plan for Mexico City" %}}.
+[Human Rights First Letter Regarding Giuliani Plan for Mexico City](http://web.archive.org/web/20100827150421/http://www.humanrightsfirst.org/mexico_policing/mex_policing.htm).
 
-{{% resource_link "2458787b-6fa6-484e-9f8a-2c8224ad5886" "Center for U.S. - Mexican Studies" %}}.
+[Center for U.S. - Mexican Studies](http://www.utdallas.edu/research/cusms/).
 
-"Democratizing the Police Abroad: What to Do and How to Do It." Chapter 3. ({{% resource_link "c2eb6bb6-2604-4111-9da0-db275d6c38c0" "PDF" %}})
+"Democratizing the Police Abroad: What to Do and How to Do It." Chapter 3. ([PDF](http://www.ncjrs.gov/pdffiles1/nij/188742.pdf))
 
-{{% resource_link "e6402412-bd58-431d-9caf-b4a5fe429be9" "Exploring Roads to Police Reform: Six Recommendations" %}}.
+[Exploring Roads to Police Reform: Six Recommendations](http://repositories.cdlib.org/usmex/prajm/varenik/).
 
-{{% resource_link "316fa9fb-d741-48c7-9f1f-983f66e7fe53" "Evaluando la \"Estrategía Giuliani\": la Política de Cero Tolerancia en el Distrito Federal" %}}.
+[Evaluando la "Estrategía Giuliani": la Política de Cero Tolerancia en el Distrito Federal](http://repositories.cdlib.org/usmex/prajm/arroyo/).
 
-{{% resource_link "a958bf5d-6d50-4c11-b172-b4105217ba41" "La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California" %}}.
+[La Participación Ciudadana y el Enfoque Micro Social de la Seguridad Pública: El Caso de Baja California](http://repositories.cdlib.org/usmex/prajm/carrillo/).
 
 _Film_
 
-Soderbergh, Steven. {{% resource_link "ef479168-9ffe-488d-a271-da29f6293371" "_Traffic_" %}}. U.S.A. Films, 2000.
+Soderbergh, Steven. [_Traffic_](http://www.imdb.com/title/tt0181865/). U.S.A. Films, 2000.
 
 
 {{< tdclose >}}
@@ -663,7 +663,7 @@ Holston, James, and Teresa P. R. Caldeira. "Democracy, Law, and Violence: The Di
 
 _Film_
 
-Salles, Walter. {{% resource_link "aaf9b07b-7d0d-4452-8331-0c4944824f5b" "_Central Station_" %}}. 1998.
+Salles, Walter. [_Central Station_](http://www.imdb.com/title/tt0140888/). 1998.
 
 
 {{< tdclose >}}
